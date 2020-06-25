@@ -151,9 +151,6 @@
 <div id="NavFrame2" class="NavFrame collapsed">
 <ul>
 <li class="NavHead">Influenced</li>
-<li>
-<div class="center">&nbsp;</div>
-</li>
 <li><a class="mw-redirect" title="Theodor Adorno" href="https://en.wikipedia.org/wiki/Theodor_Adorno">Adorno</a></li>
 <li><a title="Georges Bataille" href="https://en.wikipedia.org/wiki/Georges_Bataille">Bataille</a></li>
 <li><a title="Hermann Broch" href="https://en.wikipedia.org/wiki/Hermann_Broch">Broch</a></li>
