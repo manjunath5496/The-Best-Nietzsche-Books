@@ -149,8 +149,8 @@
 <tr class="note">
 <td style="width: 360px;" colspan="2">
 <div id="NavFrame2" class="NavFrame collapsed">
+ <div class="NavHead">Influenced</div> 
 <ul>
-<li class="NavHead">Influenced</li>
 <li><a class="mw-redirect" title="Theodor Adorno" href="https://en.wikipedia.org/wiki/Theodor_Adorno">Adorno</a></li>
 <li><a title="Georges Bataille" href="https://en.wikipedia.org/wiki/Georges_Bataille">Bataille</a></li>
 <li><a title="Hermann Broch" href="https://en.wikipedia.org/wiki/Hermann_Broch">Broch</a></li>
